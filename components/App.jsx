@@ -9,7 +9,7 @@ class App extends React.Component {
    color:'#0a67ed',
    content: {
     fontSize:50
-  },
+  }
  }
  return (
    <div>
